@@ -1,4 +1,1 @@
-Write an empty class Square that defines a square:
-
-You are not allowed to import any module
-
+Write a script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server (in localhost).
